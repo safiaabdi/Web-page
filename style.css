@@ -1,0 +1,13 @@
+.outer-container{
+    border:3px dotted red;
+    
+}
+.inner-container{
+    padding:20px;
+    margin: 5%;
+    border :1px solid purple;
+font-style: italic;
+   
+}
+
+
